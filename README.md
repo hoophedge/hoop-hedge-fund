@@ -1,6 +1,4 @@
-# ritadel - Under development
-
-<img align="right" width="400" src="https://github.com/user-attachments/assets/4eab549a-76ce-4e88-aac7-1f74a19b6e6d" alt="pepe"/>
+# hoophedge - Under development
 
 Leverage the latest AI, Realtime Financial stats, news, algorithms, reddit posts... to make trading decisions for you. 
 
